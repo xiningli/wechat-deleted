@@ -1,4 +1,4 @@
-# wechat-deleted
+#wechat-unfriended-checker.
 
 #This is for acknowledging the original author of this program...
 
@@ -38,3 +38,5 @@ URLError (网络异常未处理)
 [Node.js 版](https://github.com/chemdemo/wechat-helper)
 
 [Chrome 插件](https://github.com/liaohuqiu/wechat-helper)
+
+# Noted: this is not my original work. 
